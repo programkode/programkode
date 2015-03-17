@@ -1,0 +1,27 @@
+{
+  "name": "programkode",
+  "version": "0.7.0",
+  "description": "Application Framework Builder",
+  "main": "programkode.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/programkode/programkode.git"
+  },
+  "keywords": [
+    "builder",
+    "framework",
+    "application-builder",
+    "gulp",
+    "typescript",
+    "programkode"
+  ],
+  "author": "programkode",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/programkode/programkode/issues"
+  },
+  "homepage": "https://github.com/programkode/programkode"
+}
