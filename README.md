@@ -1,9 +1,5 @@
-# Who is `programkode`?
+# Contact
 
-[`920 621 201, MARCUS A. DAHL, PROGRAMVAREUTVIKLING`](https://w2.brreg.no/enhet/sok/underenh.jsp?orgnr=920590888)
+> `programkode#1179` on Discord.
 
----
-
-I am `programkode#1179` on Discord.
-
-You can contact me via e-mail **@** `marcus📧programkode.studio`
+> `marcus📧programkode.studio`
